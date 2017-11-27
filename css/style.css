@@ -1,0 +1,157 @@
+.logo-font {
+  font-family: 'BEBAS', sans-serif;
+  letter-spacing: 1px;
+}
+
+.heading-font {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.day-heading {
+  text-align: right;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  background-color: #222;
+  color: #ccc;
+}
+
+.venue-heading {
+  background-image: url("/img/marquee.jpg");
+  background-size: cover;
+  height: 20vh;
+  margin-bottom:  30px;
+}
+
+.venue-title {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  opacity: 1;
+  margin-top: -15px;
+}
+
+.venue-title span {
+  padding: 9px;
+  background-color: #fff;
+  color: #111;
+  font-size: 20px;
+  letter-spacing: 5px;
+  padding-right: 4px;
+}
+
+.lunch-heading, .evening-heading, .coffee-heading, .international-heading {
+  position: relative;
+  background-color: rgba(31,31,31,0.65);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 33vh;
+}
+
+.lunch-heading {
+  background-image: url("/img/lunch.jpg");
+}
+
+.evening-heading {
+  background-image: url("/img/evening.jpg");
+}
+
+.coffee-heading {
+  background-image: url("/img/coffee.jpg");
+  background-size: cover;
+}
+
+.international-heading {
+  background-image: url("/img/international.jpg");
+  background-size: cover;
+}
+
+.parallax-heading, .parallax-half-heading {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  opacity: 1;
+  margin-top: -30px;
+}
+
+.parallax-heading span {
+  padding: 18px;
+  background-color: #fff;
+  color: #111;
+  font-size: 40px;
+  letter-spacing: 10px;
+  padding-right: 8px;
+}
+
+.parallax-heading span img {
+  padding-right: 30px;
+  padding-bottom: 5px;
+}
+
+.parallax-half-heading span {
+  padding: 40px;
+  background-color: #fff;
+  color: #111;
+  font-size: 15px;
+  letter-spacing: 3px;
+}
+
+.parallax-half-heading span img {
+  padding-bottom: 10px;
+}
+
+.overview {
+  font-size: 18px;
+  padding-top: 20px;
+  text-align: justify;
+  text-align-last: center;
+}
+
+.venue-overview {
+  font-size: 18px;
+  padding-top: 20px;
+  text-align: center;
+  text-align-last: center;
+  margin-bottom: 30px;
+}
+
+p {
+  text-align: justify;
+}
+
+a, a:hover, a:active {
+  color: inherit !important;
+  text-decoration: underline;
+}
+
+.modal-content {
+  background-color: #222;
+  color: #ccc
+}
+
+.close {
+  opacity: 1;
+  color: #ccc;
+}
+
+.btn-primary, .btn-primary:focus {
+  background-color: #fff;
+  color: #222;
+  outline: none;
+  border: none;
+  border-radius: 0;
+}
+
+.btn-primary:hover, .btn-primary:active {
+  background-color: #ccc !important;
+  color: #222 !important;
+  outline: none !important;
+}
