@@ -18,6 +18,10 @@ body {
   color: #f3f3f3;
 }
 
+.accent {
+  color: #46AA76;
+}
+
 .venue-heading {
   background-image: url("/img/marquee.jpg");
   background-size: cover;
