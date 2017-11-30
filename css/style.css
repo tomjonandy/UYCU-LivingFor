@@ -35,12 +35,11 @@ body {
 }
 
 .venue-title span {
-  padding: 9px;
+  padding: 9px 4px 5px 9px;
   background-color: #fff;
   color: #6A020B;
   font-size: 20px;
   letter-spacing: 5px;
-  padding-right: 4px;
 }
 
 .lunch-heading, .evening-heading, .coffee-heading, .international-heading {
@@ -82,12 +81,11 @@ body {
 }
 
 .parallax-heading span {
-  padding: 18px;
+  padding: 18px 8px 10px 18px;
   background-color: #fff;
   color: #6A020B;
   font-size: 40px;
   letter-spacing: 10px;
-  padding-right: 8px;
 }
 
 .parallax-heading span img {
