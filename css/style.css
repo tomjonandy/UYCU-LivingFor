@@ -20,7 +20,7 @@ body {
 .venue-heading {
   background-image: url("/img/marquee.jpg");
   background-size: cover;
-  height: 20vh;
+  height: 125px;
   margin-bottom:  30px;
 }
 
