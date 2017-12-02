@@ -117,6 +117,16 @@ a, a:hover, a:active {
   text-decoration: underline;
 }
 
+.social-row {
+  padding-bottom: 18px;
+  padding-top: 18px;
+}
+
+.social {
+  font-size: 18px;
+  text-decoration: none;
+}
+
 .modal-content {
   background-color: #222;
   color: #ccc
