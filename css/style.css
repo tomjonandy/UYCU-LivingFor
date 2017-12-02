@@ -80,12 +80,20 @@ body {
   margin-top: -30px;
 }
 
-.parallax-heading span, .parallax-half-heading span {
+.parallax-heading span {
   padding: 18px 8px 10px 18px;
   background-color: #fff;
   color: #6A020B;
   font-size: 40px;
   letter-spacing: 10px;
+}
+
+.parallax-half-heading span {
+  padding: 12px 5px 7px 12px;
+  background-color: #fff;
+  color: #6A020B;
+  font-size: 30px;
+  letter-spacing: 7px;
 }
 
 .parallax-heading span img {
