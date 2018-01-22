@@ -17,6 +17,10 @@ body {
   color: #46AA76;
 }
 
+.evening-with-feature, .evening-feature {
+  display: inline-block;
+}
+
 .venue-heading {
   background-image: url("/img/marquee.jpg");
   background-size: cover;
